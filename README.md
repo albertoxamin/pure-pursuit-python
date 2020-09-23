@@ -1,5 +1,6 @@
 # pure-pursuit-python
 Implementation of the pure pursuit algorithm with matplotlib visualization
+![screenshot](https://i.imgur.com/C5Lc5pe.png)
 
 ## Installation
 In order to run the code you need to have the following dependencies matplotlib, numpy
