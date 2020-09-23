@@ -156,7 +156,7 @@ pure_pursuit = PurePursuit(pp, ax=ax, followerSpeed=2, lookaheadDistance=5)
 
 
 def add_car(x):
-    pure_pursuit.add_follsower(random.uniform(0, 3), random.uniform(2, 20))
+    pure_pursuit.add_follower(random.uniform(0, 3), random.uniform(2, 20))
 
 def set_lookahead(x):
     pure_pursuit.lookaheadDistance = x
